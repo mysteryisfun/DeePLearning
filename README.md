@@ -1,2 +1,3 @@
-# DeePLearning
-<iframe src="https://coda.io/embed/uIu0EIQMeq/_su7BIIcj?viewMode=embedplay" width=900 height=500 style="max-width: 100%;" allow="fullscreen"></iframe>
+# DeePLearning<br>
+for Notes refer <br>
+https://coda.io/d/_duIu0EIQMeq/Deeplearning-All-u-got_su7BIIcj
